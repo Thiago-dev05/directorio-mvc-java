@@ -5,6 +5,7 @@ public class Producto {
     private String sku;
     private int cantidad;
     private double precio;
+    private int color;
 
     /**
      * Constructor para inicializar un producto con todos sus atributos.
